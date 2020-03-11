@@ -1,0 +1,19 @@
+{
+    "name": "test/lineo",
+    "description": "",
+    "authors": [{
+        "name": "Francisco Trabol",
+        "email": "f.trabol@gmail.com"
+    }],
+    "require": {
+       
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
