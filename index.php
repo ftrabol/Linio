@@ -16,9 +16,9 @@ $data = $obj->printMessage();
 <div style="width:80%;margin:0 auto;">
     <div  style="width:20%;margin:0 auto;">
         <h3>Multiplos</h3>
-        <h4>Por 3 = LINEO</h4>
+        <h4>Por 3 = LINIO</h4>
         <h4>Por 5 = IT</h4>
-        <h4>Por 3 y 5 = LINEADOS</h4>
+        <h4>Por 3 y 5 = LINIANOS</h4>
     </div>
     <div style="width:100%;margin:0 auto;heigth:500px;margin: 0 auto;height: 500px;overflow-y: auto;">
         <table class="table" border=1 style="border-collapse: collapse;width:100%;">
